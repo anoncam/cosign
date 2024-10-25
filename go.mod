@@ -15,7 +15,7 @@ require (
 	github.com/go-openapi/swag v0.22.3
 	github.com/go-piv/piv-go v1.10.0
 	github.com/google/certificate-transparency-go v1.1.4
-	github.com/google/go-cmp v0.5.9
+	github.com/google/go-cmp v0.6.0
 	github.com/google/go-containerregistry v0.13.0
 	github.com/google/go-github/v45 v45.2.0
 	github.com/in-toto/in-toto-golang v0.5.0
