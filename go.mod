@@ -31,7 +31,7 @@ require (
 	github.com/sigstore/sigstore v1.5.1
 	github.com/sigstore/timestamp-authority v0.2.1
 	github.com/spf13/cobra v1.6.1
-	github.com/spf13/pflag v1.0.5
+	github.com/spf13/pflag v1.0.6
 	github.com/spf13/viper v1.15.0
 	github.com/spiffe/go-spiffe/v2 v2.1.2
 	github.com/stretchr/testify v1.8.1
